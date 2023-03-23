@@ -11,5 +11,5 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YankFitzgerald" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YankFitzgerald" alt="Top Languages" />
 </div>
