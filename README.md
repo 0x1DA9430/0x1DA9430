@@ -8,5 +8,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1DA9430&layout=compact&theme=auto&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1DA9430&layout=compact&theme=auto&langs_count=10&card_width=400" alt="Top Languages" />
 </div>
